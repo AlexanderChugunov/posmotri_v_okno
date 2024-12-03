@@ -36,3 +36,14 @@ ul,
 ol {
   list-style: none;
 }
+.content{
+  display:flex;
+  flex-direction:row;
+}
+.result{
+  display: flex;
+  flex-direction: column;
+}
+.search-form{
+  display: flex;
+}
