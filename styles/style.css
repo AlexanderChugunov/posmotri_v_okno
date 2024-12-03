@@ -37,13 +37,25 @@ ol {
   list-style: none;
 }
 .content{
+  margin:133px 30px;
   display:flex;
   flex-direction:row;
 }
 .result{
+  padding-top:78px;
   display: flex;
   flex-direction: column;
 }
 .search-form{
-  display: flex;
+ 
+}
+.content__details{
+  width:399px;
+height:258px;
+display: flex;
+overflow: scroll;
+
+}
+.content__list{
+
 }
